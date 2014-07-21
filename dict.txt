@@ -1,0 +1,6 @@
+tabs
+bats
+cat
+tac
+money
+funny
